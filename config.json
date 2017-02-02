@@ -50,7 +50,7 @@
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
 	},
 	"display": {
-		"enabled":true,
+		"enabled":false,
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
