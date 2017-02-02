@@ -56,7 +56,7 @@
 		"percentage_after_conversion":10,
 		"conversion_percentage": 0,
 		"apps": [
-			{"id":"1764", "appid":"5340", "pkg":"com.twins.parallelaccounts", "weight":1.0}
+			{"id":"1764", "appid":"5340", "pkg":"com.vpn.powervpn", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 		"randomAdvId": false,
