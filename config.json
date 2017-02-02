@@ -48,5 +48,21 @@
 			{"id":"912b1f74ffa151e19ca496425e979d84","pkg":"com.marveldeal.translatorkeyboard", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
+	},
+	"display": {
+		"enabled":true,
+		"params":[],
+		"click_percentage": 10,
+		"percentage_after_conversion":10,
+		"conversion_percentage": 0,
+		"apps": [
+			{"id":"1749", "appid":"5327", "pkg":"com.twins.parallelaccounts", "weight":1.0}
+		],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
+		"randomAdvId": false,
+		"excluded_packages":[],
+		"multiple_conversion_allowed": false,
+	        "renew_device_after_days":0
 	}
+	
 }
