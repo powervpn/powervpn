@@ -7,7 +7,7 @@
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
-		"conversion_percentage": 0,
+		"conversion_percentage": 3,
 		"apps": [
 			{"id":"4917655312562-com.vpn.powervpn-android","weight":1.0}
 		],
@@ -20,11 +20,11 @@
 	"next": {
 		"enabled": true,
 		"params":[],
-		"click_percentage": 8,		
-		"percentage_after_conversion": 8,
+		"click_percentage": 12,		
+		"percentage_after_conversion": 12,
 		"select_top":5,
 		"random_all_probab":3,
-		"conversion_percentage": 0,
+		"conversion_percentage": 5,
 		"play_store_installs_allowed":true,
 		"apps": [
 			{"id":"94a33dd5-7ef8-4fb3-93e7-b005742f4b81","pkg":"com.vpn.powervpn", "weight":1.0}	
@@ -50,7 +50,7 @@
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
 	},
 	"display": {
-		"enabled":true,
+		"enabled":false,
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
