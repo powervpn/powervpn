@@ -7,7 +7,7 @@
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
-		"conversion_percentage": 0,
+		"conversion_percentage": 2,
 		"apps": [
 			{"id":"4917655314327-com.vpn.powervpn-android","weight":1.0}
 		],
