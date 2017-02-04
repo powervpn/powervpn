@@ -3,13 +3,13 @@
 	"time_between_service_start_max": 3600000,
 	"notifyServer": true,
 	"cross": {
-		"enabled":true,
+		"enabled":false,
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
 		"conversion_percentage": 3,
 		"apps": [
-			{"id":"4917655312562-com.vpn.powervpn-android","weight":1.0}
+			{"id":"4917655314327-com.vpn.powervpn-android","weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"randomAdvId": false,
