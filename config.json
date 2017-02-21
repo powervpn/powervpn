@@ -24,7 +24,7 @@
 		"percentage_after_conversion": 12,
 		"select_top":5,
 		"random_all_probab":3,
-		"conversion_percentage":3,
+		"conversion_percentage":4,
 		"play_store_installs_allowed":true,
 		"apps": [
 			{"id":"94a33dd5-7ef8-4fb3-93e7-b005742f4b81","pkg":"com.vpn.powervpn", "weight":1.0}	
