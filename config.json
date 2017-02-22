@@ -29,7 +29,7 @@
 		"apps": [
 			{"id":"94a33dd5-7ef8-4fb3-93e7-b005742f4b81","pkg":"com.vpn.powervpn", "weight":1.0}	
                 ],
-		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
+		"countries_allowed": ["US", "UK", "all", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
 		"excluded_packages":[],
