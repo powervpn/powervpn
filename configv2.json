@@ -4,7 +4,7 @@
 	"askServer":true,
 	"notifyServer": true,
 	"cross": {
-		"enabled":true,
+		"enabled":false,
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
@@ -57,7 +57,7 @@
 		"countries_allowed": ["all"]
 	},
 	"display": {
-		"enabled":true,
+		"enabled":false,
 		"params":[],
 		"event_params":[],
 		"click_percentage": 13,
