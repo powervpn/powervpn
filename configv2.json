@@ -10,10 +10,7 @@
 		"percentage_after_conversion":10,
 		"conversion_percentage":1,
 		"apps": [
-			{"pkg":"com.twins.parallelaccounts","id":"4917655363618-com.twins.parallelaccounts-android", "weight":1.0},
-			{"pkg":"com.shadow.multiaccounts","id":"4917655363605-com.shadow.multiaccounts-android", "weight":1.0},
-			{"pkg":"com.effecto.prisma.imageeditor.new","id":"4917655363605-com.effecto.prisma.imageeditor.new-android", "weight":1.0}
-		],
+			],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"special_countries":[],
 		"special_conversion_percentage":50,
@@ -67,7 +64,6 @@
 		"percentage_after_conversion":13,
 		"conversion_percentage":1,
 		"apps": [
-			{"id":"2099", "appid":"5649", "pkg":"com.applifier.marvelvpn", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 		"special_countries":["IN"],
