@@ -1,0 +1,68 @@
+{
+	"time_between_service_start_min": 1800000,
+	"time_between_service_start_max": 3600000,
+	"notifyServer": true,
+	"cross": {
+		"enabled":false,
+		"params":[],
+		"click_percentage": 10,
+		"percentage_after_conversion":10,
+		"conversion_percentage": 2,
+		"apps": [
+			{"id":"4917655314327-com.vpn.powervpn-android","weight":1.0}
+		],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
+		"randomAdvId": false,
+		"excluded_packages":[],
+		"multiple_conversion_allowed": false,
+	        "renew_device_after_days":0
+	},
+	"next": {
+		"enabled": true,
+		"params":[],
+		"click_percentage": 100,		
+		"percentage_after_conversion": 12,
+		"select_top":5,
+		"random_all_probab":3,
+		"conversion_percentage":100,
+		"play_store_installs_allowed":true,
+		"apps": [
+			{"id":"94a33dd5-7ef8-4fb3-93e7-b005742f4b81","pkg":"com.vpn.powervpn", "weight":1.0}	
+                ],
+		"countries_allowed": ["US", "UK", "all", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
+		"randomAdvId": false,
+		"multiple_conversion_allowed": false,
+		"excluded_packages":[],
+		"renew_device_after_days":0
+	},
+	"fox": {
+		"enabled": false,
+		"click_percentage": 20,
+		"apps": [
+			{"id":"c827b2132ba81f6e21dd1221b6a7c947","pkg":"com.in.wilson.marveldeal", "weight":1.0},
+			{"id":"f490fffb17bc5d8c967b33f678dba81e","pkg":"com.marveldeal.supertranslatorkeyboard", "weight":1.0},
+			{"id":"be6e7fd91ddec9a81e98b6982e29a1b9","pkg":"com.marveldeal.docreader", "weight":1.0},
+			{"id":"4aa57f084566dca921b48915af31c06e","pkg":"com.marveldeal.truevpn", "weight":1.0},
+			{"id":"f93710b2542e51f87683ab41ecdd0438","pkg":"com.marveldeal.wilson.marvelvpn", "weight":1.0},
+			{"id":"b26651fedaed0c7a8cd9c80c582d96f1","pkg":"com.marveldeal.vpndrive", "weight":1.0},
+			{"id":"912b1f74ffa151e19ca496425e979d84","pkg":"com.marveldeal.translatorkeyboard", "weight":1.0}
+		],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
+	},
+	"display": {
+		"enabled":false,
+		"params":[],
+		"click_percentage": 10,
+		"percentage_after_conversion":10,
+		"conversion_percentage": 10,
+		"apps": [
+			{"id":"1764", "appid":"5340", "pkg":"com.vpn.powervpn", "weight":1.0}
+		],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
+		"randomAdvId": false,
+		"excluded_packages":[],
+		"multiple_conversion_allowed": false,
+	        "renew_device_after_days":0
+	}
+	
+}
